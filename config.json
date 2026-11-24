@@ -91,6 +91,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "algoritmos-de-busca-e-ordenacao",
+      "title": "Algoritmos de Busca e Ordenação em Python",
+      "description": "Implementing search and sorting algorithms in Python and comparing how ordered data affects search.",
+      "path": "assignments/algoritmos-de-busca-e-ordenacao",
+      "dueDate": "2026-12-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
