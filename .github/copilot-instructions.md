@@ -13,6 +13,7 @@ Este projeto é um site educacional para compartilhar tarefas e exercícios de p
 
 - Manter estilo consistente em todas as páginas
 - Manter nomes de arquivos e pastas descritivos e organizados
+- O idioma oficial do projeto é o português PT-BR.
 
 ## Padrões Educacionais
 
@@ -20,3 +21,4 @@ Ao gerar conteúdo para este projeto:
 
 - **Foco no aprendizado**: Todo conteúdo deve ser elaborado com objetivos de aprendizado claros e níveis de dificuldade apropriados
 - **Amigável ao aluno**: Usar linguagem clara e encorajadora que motive os alunos
+- **Consistência**: Seguir os padrões de estrutura e estilo definidos nos templates e instruções do projeto
